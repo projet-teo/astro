@@ -28,5 +28,5 @@ function check()
         correct++;
     
     document.getElementById("submitted").style.visibility = "visible";
-    document.getElementById("no_correct").innerHTML = "You got " + correct + " correct!";
+    document.getElementById("no_correct").innerHTML = "Tu as obtenu " + correct + " reponses correctes!";
 }
